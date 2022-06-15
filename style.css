@@ -1,0 +1,21 @@
+th{
+    font-weight: 1000;
+}
+
+table{
+    font-family: 'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: orange;
+}
+th{
+    font-weight: 1000;
+    background-color: orange;
+    color: white;
+}
+
+
+h1{
+    color: orange;
+}
